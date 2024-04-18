@@ -1,0 +1,10 @@
+---
+title: "英伟达GPU芯片分析"
+author: "Maverick"
+date: "2024-04-17"
+categories: [news, code, analysis]
+---
+
+未来自己可能从事算力产业，而提到算力则不得不提到GPU，这个世界上的GPU被AMD和NVIDIA所垄断，但英伟达公司在GPU领域领先AMD很多，所以我想写一篇关于英伟达公司的文章来向大家介绍这家公司的产品和服务。
+
+# 公司的使命宣言（Mission Statement）
