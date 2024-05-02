@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 17, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\n英伟达GPU芯片分析\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 17, 2024\n\n\nMaverick\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 14, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "工作选择\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 21, 2024\n\n\nMaverick\n\n\n\n\n\n\n\n\n\n\n\n\n王同学的播客制作\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 21, 2024\n\n\nMaverick\n\n\n\n\n\n\n\n\n\n\n\n\n英伟达GPU芯片分析\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 17, 2024\n\n\nMaverick\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 17, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 14, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/英伟达GPU芯片分析/index.html",
@@ -33,5 +33,40 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/王同学的播客制作/index.html",
+    "href": "posts/王同学的播客制作/index.html",
+    "title": "王同学的播客制作",
+    "section": "",
+    "text": "写这个的目的是想提前给我和王同学的播客做一期草稿或者说是提纲。"
+  },
+  {
+    "objectID": "posts/王同学的播客制作/index.html#播客开始之前",
+    "href": "posts/王同学的播客制作/index.html#播客开始之前",
+    "title": "王同学的播客制作",
+    "section": "播客开始之前",
+    "text": "播客开始之前\n\n自我介绍\n对王同学的认识\n为什么做播客\n\n很有意义（历史角度）\n促进同学间的互相交流\n给后来者启发\n\n王同学自我介绍"
+  },
+  {
+    "objectID": "posts/王同学的播客制作/index.html#播客开始之后",
+    "href": "posts/王同学的播客制作/index.html#播客开始之后",
+    "title": "王同学的播客制作",
+    "section": "播客开始之后",
+    "text": "播客开始之后\n\n自我介绍：2019年高考成绩，黑龙江省排名，\n高考为什么报考克拉玛依校区？为什么报考机械专业？\n高考失败后的心情如何？\n来到克拉玛依后，对克拉玛依和校区的印象\n对机械专业的看法.\n为什么决定复读？\n从克拉玛依离开的那一刻是什么样的感受？\n家里人和周围的同学、朋友如何看待自己复读的情况？\n\n如何说服家长\n\n复读之后，在学习方法上有什么改变？\n复读期间的挑战和心态变化\n考上南开大学自己的心态\n为什么选择经济专业？\n南开大学和克拉玛依校区的差异？\n南开大学也能去交流，你的体验如何？\n如果有人也像你一样想要复读，你会有什么建议？\n\n如何面对失败和挑战\n\n你觉得什么样的人适合在克拉玛依读书？\n如果大学四年一直在新疆，今天自己会是什么样子？\n给那些想复读但是不能的同学一些建议（如何避免高校和地理位置的差距）\n退学复读的经历对自己的人生意味着什么？"
+  },
+  {
+    "objectID": "posts/工作选择/index.html",
+    "href": "posts/工作选择/index.html",
+    "title": "工作选择",
+    "section": "",
+    "text": "我最近在准备华为OD的机试，机试的内容主要考察数据结构与算法，我大学在这个学科上没有学好，现在刷华为HR给我的题库非常费劲。最近西云算力公司的HR找我，说他们公司的销售管培生的要求比较符合我的专业背景，这家公司的业务主要是通过宁夏的GPU资源远程卖给全国各地需要使用算力的用户，工作地点在北京。目前算力产业很火，有大量的资金传入进来，我觉得从事这个行业也比较有前景，所以答应他们去北京面试，然后再考虑是否去华为od还是西云算力公司。 上面是我的基本情况，今天下午突然有事，不能跟大家有线上讨论了。如果大家对我有什么建议，可以沟通一下。"
+  },
+  {
+    "objectID": "posts/王同学的播客制作/index.html#播客开头",
+    "href": "posts/王同学的播客制作/index.html#播客开头",
+    "title": "王同学的播客制作",
+    "section": "播客开头",
+    "text": "播客开头\n各位小宇宙的播客听众们大家好，五一假期快到了，不知道你们过得怎样？到今天为止我已经对谈了五位来自克拉玛依校区的同学，但是今天的跟我对谈的同学并不没有在克拉玛依校区度过他的大学生涯，那为什么我要邀请他来做播客呢？这是因为他在2019年从克拉玛依校区退学复读考上了南开大学，将来要去新加坡南洋理工大学念硕士，可以说非常的perfect，干了当年在克拉玛依校区很多人想干而不敢干的事情，他的经历本身就是一个传奇的故事，现在让王同学来介绍一下自己。"
   }
 ]

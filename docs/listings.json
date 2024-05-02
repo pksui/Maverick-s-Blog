@@ -2,8 +2,10 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/post-with-code/index.html",
+      "/posts/工作选择/index.html",
+      "/posts/王同学的播客制作/index.html",
       "/posts/英伟达GPU芯片分析/index.html",
+      "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]
   }
